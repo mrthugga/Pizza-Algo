@@ -1,3 +1,5 @@
-Step 1: Choose pizza place
-Step 2: How many pizzas 
-Step 3: why do u want pizza  ? 
+Step 1: Choose pizza to order ?
+Step 2: How many pizzas do we need to order ?
+Step 3a: Who is this pizza for ? 
+Step 3: why do u want to order so many pizzas  ? 
+
